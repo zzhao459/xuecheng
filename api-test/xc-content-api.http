@@ -1,0 +1,13 @@
+### search course info
+POST {{content_host}}/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+  "auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+
+}
+
+<> 2024-03-06T210159.200.json
+
